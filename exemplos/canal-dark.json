@@ -1,0 +1,204 @@
+{
+ "nicho": "canais dark no YouTube (sem rosto, narração com IA, histórias, curiosidades, mistério)",
+ "quem_sou": "Tenho (ou quero ter) um canal dark no YouTube, em português. Uso IA pra voz, imagem e edição. Ainda não monetizei.",
+ "o_que_quero_saber": [
+  "ferramentas de voz, imagem e vídeo que a comunidade está usando agora (preço, qualidade, mudança)",
+  "o que está ou não funcionando pra monetizar canal dark",
+  "mudanças nas regras do YouTube (YPP, conteúdo inautêntico, IA)",
+  "formatos e nichos que sobem ou caem"
+ ],
+ "idiomas": [
+  "pt",
+  "en"
+ ],
+ "temas": [
+  "regras",
+  "ferramentas",
+  "formato",
+  "nichos",
+  "monetizacao",
+  "algoritmo",
+  "producao"
+ ],
+ "buscas_youtube": [
+  [
+   "pt",
+   "canal dark youtube"
+  ],
+  [
+   "pt",
+   "canal dark monetização"
+  ],
+  [
+   "pt",
+   "canal dark inteligência artificial narração"
+  ],
+  [
+   "pt",
+   "canal sem aparecer youtube"
+  ],
+  [
+   "en",
+   "faceless youtube channel"
+  ],
+  [
+   "en",
+   "faceless youtube monetization"
+  ],
+  [
+   "en",
+   "youtube inauthentic content policy"
+  ],
+  [
+   "en",
+   "youtube automation niche"
+  ],
+  [
+   "en",
+   "ai voiceover youtube"
+  ],
+  [
+   "en",
+   "ai video generator youtube faceless"
+  ],
+  [
+   "en",
+   "storytelling youtube channel retention"
+  ]
+ ],
+ "buscas_web": [
+  "site:reddit.com r/NewTubers OR r/PartneredYoutube monetização negada canal sem rosto",
+  "site:reddit.com r/YouTubeAutomation inauthentic content",
+  "site:x.com faceless youtube monetization AI",
+  "YouTube YPP inauthentic content policy update",
+  "\"canal dark\" monetização recusada 2026",
+  "AI voice narration youtube faceless channel tools"
+ ],
+ "fontes_oficiais": [
+  {
+   "nome": "Políticas de monetização do YouTube (YPP)",
+   "url": "https://support.google.com/youtube/answer/1311392"
+  },
+  {
+   "nome": "Creator Insider (canal oficial do time do YouTube)",
+   "url": "https://www.youtube.com/@CreatorInsider"
+  }
+ ],
+ "educadores": [
+  {
+   "nome": "Paddy Galloway",
+   "canal": "UClga3ybuyyjpvqsh-cf3DvQ",
+   "vende": false,
+   "idioma": "en"
+  },
+  {
+   "nome": "Film Booth",
+   "canal": "UCSQ6ebJE6MTrEAN_P-L-fuA",
+   "vende": false,
+   "idioma": "en"
+  },
+  {
+   "nome": "Colin and Samir",
+   "canal": "UCamLstJyCa-t5gfZegxsFMw",
+   "vende": false,
+   "idioma": "en"
+  },
+  {
+   "nome": "vidIQ",
+   "canal": "UCZLFu8bHbwtnIgWLg5UtINw",
+   "vende": true,
+   "idioma": "en"
+  },
+  {
+   "nome": "Creator Insider",
+   "canal": "@CreatorInsider",
+   "vende": false,
+   "idioma": "en"
+  }
+ ],
+ "radar": [
+  {
+   "nome": "RuanCast",
+   "canal": "UCzxqs9EX4EcL-jm8Udk0gVg",
+   "grupo": "lendas-pt",
+   "idioma": "pt"
+  },
+  {
+   "nome": "TechTerror",
+   "canal": "UCNiLwMl5bio29sIS1PPVNAw",
+   "grupo": "lendas-pt",
+   "idioma": "pt"
+  },
+  {
+   "nome": "Loust",
+   "canal": "UC8dBhkLdAqP_G6VHj_OVhRg",
+   "grupo": "lendas-pt",
+   "idioma": "pt"
+  },
+  {
+   "nome": "Velumbra",
+   "canal": "UCVquG39lGVKiNMT2buT3Rrw",
+   "grupo": "paranormal-pt",
+   "idioma": "pt"
+  },
+  {
+   "nome": "Histórias Mitológicas",
+   "canal": "UCIRvwlYK55mQcD8oxnEHscw",
+   "grupo": "mitologia-pt",
+   "idioma": "pt"
+  },
+  {
+   "nome": "Crimes e mistérios",
+   "canal": "UCS4CwpmsIstL-6iF5FERdVg",
+   "grupo": "misterios-pt",
+   "idioma": "pt"
+  },
+  {
+   "nome": "Zona Obscura",
+   "canal": "UCON3RJGT_yqyEBK3iSz_LIA",
+   "grupo": "terror-dormir-pt",
+   "idioma": "pt"
+  },
+  {
+   "nome": "Finest Explainer",
+   "canal": "UC2RkPC-fzVCAdOEwc11Eesw",
+   "grupo": "lendas-en",
+   "idioma": "en"
+  },
+  {
+   "nome": "M Simplified",
+   "canal": "UCqXlPGw_s8Mr7YOSVZYjWOg",
+   "grupo": "lendas-en",
+   "idioma": "en"
+  },
+  {
+   "nome": "Lore In Minutes",
+   "canal": "UCQlWhFHqWoI_J69EcCRzWxQ",
+   "grupo": "lendas-en",
+   "idioma": "en"
+  },
+  {
+   "nome": "Around The World Explained",
+   "canal": "UCOf5NeXkVTWSfMQm0wvy3Sw",
+   "grupo": "lendas-en",
+   "idioma": "en"
+  },
+  {
+   "nome": "Terrifying Tales",
+   "canal": "UC_9ZHUQtYeGCDHbhCZlT4Hg",
+   "grupo": "terror-dormir-en",
+   "idioma": "en"
+  },
+  {
+   "nome": "Past and Curious",
+   "canal": "UCRYYASgi_f4m0RJqWrec3Zg",
+   "grupo": "mitologia-en",
+   "idioma": "en"
+  }
+ ],
+ "meus_canais": [],
+ "bandeiras_extras": {},
+ "modelo": "sonnet",
+ "modelo_semanal": "opus",
+ "semanal_no_domingo": true
+}

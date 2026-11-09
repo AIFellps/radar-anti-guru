@@ -1,0 +1,7 @@
+{
+  "name": "radar",
+  "description": "Radar Anti-Guru: todo dia lê o que a comunidade do seu nicho está falando (YouTube, Reddit, X, notícias, fontes oficiais) e separa o que tem prova do papo de guru. A nota é de uma conta fixa, não da opinião da IA.",
+  "version": "0.2.0",
+  "author": { "name": "Fellps" },
+  "keywords": ["pesquisa", "youtube", "guru", "nicho", "radar", "português"]
+}

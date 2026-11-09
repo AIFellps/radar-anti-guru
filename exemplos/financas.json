@@ -1,0 +1,122 @@
+{
+ "nicho": "finanças pessoais e investimentos para iniciantes no Brasil",
+ "quem_sou": "Pessoa comum começando a investir, com pouco dinheiro guardado. Não quer cair em curso milagroso, sinal pago nem pirâmide.",
+ "o_que_quero_saber": [
+  "o que muda nas regras e nos impostos (Receita, CVM, Banco Central)",
+  "quais investimentos e corretoras estão sendo recomendados por quem não ganha com isso",
+  "golpes e esquemas circulando agora",
+  "o que a comunidade relata de experiência real (bom e ruim)"
+ ],
+ "idiomas": [
+  "pt",
+  "en"
+ ],
+ "temas": [
+  "regras",
+  "impostos",
+  "investimentos",
+  "corretoras",
+  "golpes",
+  "comportamento",
+  "outros"
+ ],
+ "buscas_youtube": [
+  [
+   "pt",
+   "como começar a investir"
+  ],
+  [
+   "pt",
+   "renda fixa 2026"
+  ],
+  [
+   "pt",
+   "melhor investimento para iniciantes"
+  ],
+  [
+   "pt",
+   "renda passiva dividendos"
+  ],
+  [
+   "pt",
+   "day trade iniciante"
+  ],
+  [
+   "pt",
+   "golpe investimento"
+  ],
+  [
+   "en",
+   "index fund investing beginners"
+  ]
+ ],
+ "buscas_web": [
+  "site:reddit.com r/investimentos OR r/farialimabets experiência corretora",
+  "CVM alerta golpe investimento 2026",
+  "Receita Federal mudança imposto investimentos 2026",
+  "Banco Central Selic decisão",
+  "site:reddit.com r/personalfinance index fund"
+ ],
+ "fontes_oficiais": [
+  {
+   "nome": "CVM (alertas e regulação)",
+   "url": "https://www.gov.br/cvm"
+  },
+  {
+   "nome": "Banco Central do Brasil",
+   "url": "https://www.bcb.gov.br"
+  },
+  {
+   "nome": "Receita Federal",
+   "url": "https://www.gov.br/receitafederal"
+  }
+ ],
+ "educadores": [
+  {
+   "nome": "Me Poupe!",
+   "canal": "UC8mDF5mWNGE-Kpfcvnn0bUg",
+   "vende": true,
+   "idioma": "pt"
+  },
+  {
+   "nome": "Nath Finanças",
+   "canal": "UCmhzmQBdXP9TeRtpQ-iWSPg",
+   "vende": false,
+   "idioma": "pt"
+  },
+  {
+   "nome": "Ben Felix",
+   "canal": "UCDXTQ8nWmx_EhZ2v-kp7QxA",
+   "vende": false,
+   "idioma": "en"
+  }
+ ],
+ "radar": [
+  {
+   "nome": "Primo Pobre",
+   "canal": "UCOjXqrOxAdXa04obIQREfCA",
+   "grupo": "financas-pt",
+   "idioma": "pt"
+  },
+  {
+   "nome": "Gustavo Cerbasi",
+   "canal": "UC_mSfchV-fgpPy-vuwML8_A",
+   "grupo": "financas-pt",
+   "idioma": "pt"
+  },
+  {
+   "nome": "Bruno Perini",
+   "canal": "UCCE-jo1GvBJqyj1b287h7jA",
+   "grupo": "financas-pt",
+   "idioma": "pt"
+  }
+ ],
+ "meus_canais": [],
+ "bandeiras_extras": {
+  "garantido": "lucro garantido|retorno garantido|sem risco|risco zero|guaranteed returns?|\\d+\\s?% ao (dia|m[eê]s)",
+  "sinal": "sala de sinais|sinais? (vip|pago)|copy ?trade|rob[oô] (de|que) (trade|opera)"
+ },
+ "modelo": "sonnet",
+ "modelo_semanal": "opus",
+ "semanal_no_domingo": true
+}

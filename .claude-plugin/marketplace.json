@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "radar-anti-guru",
+  "description": "Radar Anti-Guru: pesquisa diária do seu nicho com filtro de guru.",
+  "owner": { "name": "Fellps" },
+  "plugins": [
+    {
+      "name": "radar",
+      "source": "./",
+      "description": "Todo dia lê o que a comunidade do seu nicho está falando e separa o que tem prova do papo de guru.",
+      "version": "0.2.0"
+    }
+  ]
+}
